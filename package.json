@@ -1,0 +1,15 @@
+{
+  "name": "setting-up-backend",
+  "version": "1.0.0",
+  "description": "Setting up node for backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Ghosia Javed",
+  "license": "ISC"
+}
